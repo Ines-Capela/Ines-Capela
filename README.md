@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ines-Capela
+- 💞️ I’m looking to hire the best talent for Fidel API
+- 👀 I’m interested in Senior Back-end Engineers experts in Node.js & AWS and Front-end Engineers rocking React.js.
+- 📫 How to reach me - ines@fidel.uk
